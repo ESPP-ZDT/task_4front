@@ -247,7 +247,7 @@ export class Users extends Component {
                                                 onChange={this.changeUserPassword} />
                                         </div>
                                         <div className='input-group mb-3'>
-                                            <span className='input-group-text'>UserPassword</span>
+                                            <span className='input-group-text'></span>
                                             <input type="check" className="form-control"
                                             value={UserStatus}
                                             onChange={this.changeUserStatus} />
