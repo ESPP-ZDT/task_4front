@@ -13,7 +13,7 @@ export class Users extends Component {
             UserName: "",
             UserEmail: "",
             UserPassword: "",
-            UserStatus: 1 // domyslnie ma mozliwość logowania do systemu
+            UserStatus: 1
         }
     }
 
